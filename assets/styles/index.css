@@ -215,3 +215,40 @@ footer {
   align-items: center;
   text-align: center;
 }
+
+.contact-container {
+  background-color: white;
+  width: 100%;
+
+  margin: auto;
+  padding: 10px 10px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.contact-mobile {
+  margin: auto;
+  line-height: 250%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.cpMobileNumber {
+  width: 170px;
+  text-decoration: none;
+  font-family: "Encode Sans", serif;
+  color: black;
+  background-color: blanchedalmond;
+  border: 1px solid rgb(255, 100, 0);
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px lightgrey;
+}
+
+.contact-text {
+  text-align: center;
+  font-size: medium;
+}
