@@ -215,6 +215,7 @@ footer {
   align-items: center;
   text-align: center;
   display: flex !important;
+  margin: auto;
 }
 
 .contact-container {
